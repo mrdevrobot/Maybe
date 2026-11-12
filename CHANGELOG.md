@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.3.0"></a>
+## [2.3.0](https://www.github.com/mrdevrobot/Maybe/releases/tag/v2.3.0) (2026-11-12)
+
+### Features
+
+* target net10.0 and net11.0, drop end-of-life frameworks ([5aef52f](https://www.github.com/mrdevrobot/Maybe/commit/5aef52f58898fc3b5f935c2d599c97641d1fa49a))
+
 <a name="2.2.4"></a>
 ## [2.2.4](https://www.github.com/lucafabbri/Maybe/releases/tag/v2.2.4) (2025-09-18)
 
